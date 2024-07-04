@@ -1,6 +1,7 @@
 ## 👨‍💻 Olá! Sou Ernandes Neponuceno
 
-- 👨‍🎓 Sou estudante de Análise e desenvolvimento de sistemas (2023-2025) e Arquitetura e Urbanismo (2018-2024) pela UDF.
+- 👨‍🎓 Formado em Arquitetura e Urbanismo (2018-2024) pela UDF.
+- 👨‍🎓 Sou estudante de Análise e desenvolvimento de sistemas (2023-2025).
 - 💻 Trabalhei por mais de 6 anos com atendimento e Customer Success.
 - 🏋️‍♂️ No momento, estou dedicando todo o meu tempo à transição de carreira para Desenvolvedor Front-End.
 
