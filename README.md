@@ -25,6 +25,9 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <!--<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
   
   <br>[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnandesNeponuceno&layout=compact&locale=pt-BR&&theme=catppuccin_latte)](https://github.com/ErnandesNeponuceno?tab=repositories)
 </div>
