@@ -29,11 +29,11 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB""> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,angular,nodejs,typescript,react,spring,java)](https://skillicons.dev)
+   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,bootstrap,angular,nodejs,typescript,react,spring,java&titles=true&theme=dark)
 
   ## 💻  Ferramentas 
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,idea)](https://skillicons.dev)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,idea,dbeaver,mysql&titles=true&theme=dark)
 
   
   <br>[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnandesNeponuceno&layout=compact&locale=pt-BR&&theme=catppuccin_latte)](https://github.com/ErnandesNeponuceno?tab=repositories)
