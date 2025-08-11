@@ -1,9 +1,9 @@
 ## 👨‍💻 Olá! Sou Ernandes Neponuceno
 
 - 👨‍🎓 Formado em Arquitetura e Urbanismo (2018-2024) pela UDF.
-- 👨‍🎓 Sou estudante de Análise e desenvolvimento de sistemas (2023-2025).
+- 👨‍🎓 Formado em Análise e desenvolvimento de sistemas (2023-2025) pela Gran Faculdade.
 - 💻 Trabalhei por mais de 6 anos com atendimento e Customer Success.
-- 🏋️‍♂️ Iniciando na jornada como Desenvolvedor FullStack.
+- 🥷 Desenvolvedor FullStack na Memora Processos Inovadores.
 
   
 ## 📱 Redes sociais onde você pode me encontrar:
