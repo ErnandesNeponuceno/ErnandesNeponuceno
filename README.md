@@ -3,7 +3,7 @@
 - 👨‍🎓 Formado em Arquitetura e Urbanismo (2018-2024) pela UDF.
 - 👨‍🎓 Formado em Análise e desenvolvimento de sistemas (2023-2025) pela Gran Faculdade.
 - 💻 Trabalhei por mais de 6 anos com atendimento e Customer Success.
-- 🥷 Desenvolvedor FullStack na Memora Processos Inovadores.
+- 🥷 Desenvolvedor FullStack na AGU.
 
   
 ## 📱 Redes sociais onde você pode me encontrar:
